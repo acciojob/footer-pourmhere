@@ -110,17 +110,19 @@ h2{
 }
 
 
-footer .link-boxes {
-    display: flex;
+.link-boxes {
     justify-content: space-between;
     flex-wrap: wrap;
-  }
-  footer .media-icons {
+    display: flex;
+
+}
+  .media-icons {
     color: #fff;
     /* width: 100px; */
     font-size: 20px;
-    display: flex;
     /* background-color: red; */
     /* align-self: ; */
-  }
+    display: flex;
+
+}
 
