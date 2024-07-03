@@ -2,6 +2,12 @@ body{
     padding: 0;
     margin: 0 ;
 }
+.media-icons{
+    display: flex;
+}
+.link-boxes{
+    display: flex;
+}
 .outer{
     background-color: black;
     /* height: 600px; */
@@ -27,7 +33,7 @@ body{
 .hicons{
     width: 70%;
     /* height: 50px; */
-    text-align: end;
+    justify-content: end;
     
     /* background-color: tan; */
 }
