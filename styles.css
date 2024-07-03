@@ -108,3 +108,7 @@ a{
 h2{
     color: white;
 }
+
+footer {
+    display: flex;
+}
