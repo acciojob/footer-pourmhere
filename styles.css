@@ -109,6 +109,10 @@ h2{
     color: white;
 }
 
-footer {
+footer .link-boxes {
     display: flex;
-}
+  }
+  
+  footer .media-icons {
+    display: flex;
+  }
