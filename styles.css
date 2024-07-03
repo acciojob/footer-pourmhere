@@ -3,10 +3,10 @@ body{
     margin: 0 ;
 }
 .media-icons{
-    display: flex;
+    display: flex !important
 }
 .link-boxes{
-    display: flex;
+    display: flex !important
 }
 .outer{
     background-color: black;
