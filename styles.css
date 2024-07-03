@@ -1,1 +1,104 @@
-/* your code here */
+body{
+    padding: 0;
+    margin: 0 ;
+}
+.outer{
+    background-color: black;
+    /* height: 600px; */
+    /* width: 100%; */
+    padding: 30px;
+    /* box-sizing: border-box; */
+}
+
+.head{
+    height: 80px;
+    width: 100%;
+    /* background-color: black; */
+    display: flex;
+    
+    
+}
+.hname{
+    width: 30%;
+    /* background-color: yellow; */
+    color: white;
+/* text-align: center; */
+}
+.hicons{
+    width: 70%;
+    /* height: 50px; */
+    text-align: end;
+    
+    /* background-color: tan; */
+}
+.circle{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    float: right;
+    margin-right: 15px;
+
+}
+.bgtw{
+    background-color: #1da1f2;
+}
+
+.bgfb{
+    background-color: #4267b2;
+}
+.bginsta{
+    background-color: #e1306c;
+}
+.bgin{
+    background-color: #0077b5;
+}
+.bgyt{
+    background-color: #ff0000;
+}
+
+.middle{
+    height: 350px;
+    width: 100%;
+    /* background-color: blanchedalmond; */
+    display: flex;
+}
+.block
+{
+    width: 25%;
+    /* background-color: aqua; */
+    
+}
+.footerEnd{
+    height: 60px;
+    /* width: 100%; */
+    background-color: #2c303a;
+    display: flex;
+    padding: 0 30px 0 30px;
+    /* justify-content: center; */
+    align-items: center;
+
+}
+.endNameleft{
+    width: 50%;
+    color: #bbb;
+
+    /* background-color: #2c303a; */
+}
+.endNameright{
+    width: 50%;
+    text-align: end;
+    /* background-color: gray; */
+}
+
+a{
+    text-decoration: none;
+    color: #bbb;
+    display: block;
+}
+h2{
+    color: white;
+}
